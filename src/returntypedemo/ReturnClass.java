@@ -2,7 +2,7 @@ package returntypedemo;
 
 import java.util.Scanner; 
 public class ReturnClass {
-	
+	// this comment line is added because of learning github purpose and to push again
 		
 	public static void main(String args[]) {
         ReturnClass d =  new ReturnClass ();
